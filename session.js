@@ -18,17 +18,17 @@
 //*
 //  * @project_name : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ
 //  * @version      : 4.0
-//  * @author       : Janith Rashmika
-//  * @youtube      : https://www.youtube.com/@gamingrash2006
-//  * @description  : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ, A Multi-functional WhatsApp bot created by Janith Rashmika.
+//  * @author       : ΔRSΔL MΞHΔR
+//  * @youtube      : https://youtube.com/@arsalking732?si=UzaqsqsGd-X3sQ-3
+//  * @description  : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ, A Multi-functional WhatsApp bot created by 🍃 ⃞🍿𖤍𝐿𝛥𝐷𝐿𝛥 𝛭𝛥𝛨𝛯𝑅𖤍👑🇵🇰.
 //*
 //*
 //Base by Janith Rashmika
 //GitHub: @Mrrashmika
 //WhatsApp: +94717775628
-//Want more free bot scripts? Subscribe to my YouTube channel: https://youtube.com/@gamingrash2006
-//   * Created By GitHub: Mrrashmika
-//   * Credit To Janith Rashmika
+//Want more free bot scripts? Subscribe to my YouTube channel: https://youtube.com/@arsalking732?si=UzaqsqsGd-X3sQ-3
+//   * Created By GitHub: Arsalbrand 
+//   * Credit To ΔRSΔL MΞHΔR
 //   * © 2025 © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ-V4.
 // ⛥┌┤
 // */
